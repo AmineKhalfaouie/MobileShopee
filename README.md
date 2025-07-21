@@ -72,10 +72,13 @@ MobileShoppe/
 
 
 ### Shopping Cart & Wishlist
-![Shopping Cart](assets/screenshots/cart_wishlist.png)
+<img width="1365" height="472" alt="image" src="https://github.com/user-attachments/assets/abe8fd94-5dfb-4a6b-a593-4c0a2a2462fc" />
+<img width="1364" height="411" alt="image" src="https://github.com/user-attachments/assets/1cf2150d-ff90-4324-a8b9-5b60e7f7da10" />
+
 
 ### Product Details
-![Product Details](assets/screenshots/product_details.png)
+<img width="1365" height="632" alt="image" src="https://github.com/user-attachments/assets/bceea742-2cb7-4fe0-95cf-9f0c6c8868ae" />
+
 
 ## Contributing
 
