@@ -31,8 +31,6 @@ MobileShoppe/
 
 ---
 
-Let me know if you want to add or change anything! If you want this file created in your project, just let me know.
-
 ## Getting Started
 
 ### Prerequisites
@@ -45,7 +43,7 @@ Let me know if you want to add or change anything! If you want this file created
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/MobileShoppe.git
+   git clone https://github.com/AmineKhalfaouie/MobileShoppe.git
    ```
 
 2. **Set up the database:**
@@ -69,7 +67,14 @@ Let me know if you want to add or change anything! If you want this file created
 
 ## Screenshots
 
-_Add screenshots here to showcase your app UI._
+### Home Page
+![Home Page](assets/screenshots/homepage.png)
+
+### Shopping Cart & Wishlist
+![Shopping Cart](assets/screenshots/cart_wishlist.png)
+
+### Product Details
+![Product Details](assets/screenshots/product_details.png)
 
 ## Contributing
 
@@ -86,4 +91,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Note:** Replace `yourusername` in the clone URL with your actual GitHub username. Add a `LICENSE` file if you want to specify a license. 
+**Note:** Replace `AmineKhalfaouie` in the clone URL with your actual GitHub username. Add a `LICENSE` file if you want to specify a license. 
