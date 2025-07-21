@@ -68,7 +68,8 @@ MobileShoppe/
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/screenshots/homepage.png)
+<img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/557fd5c0-6b45-4529-b3f5-e0998c6f08a4" />
+
 
 ### Shopping Cart & Wishlist
 ![Shopping Cart](assets/screenshots/cart_wishlist.png)
